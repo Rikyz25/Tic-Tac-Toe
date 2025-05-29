@@ -11,10 +11,19 @@ body h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 5rem;
     color: #BCAA99;
+
+}
+.scoreboard p{
+    color: #BCAA99;
+    font-size: 1.5rem;
+}
+.scoreboard b{
+    color:#BCAA99;
+    font-size: 1.7rem;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-
 }
 .container{
     height:70vh;
